@@ -27,7 +27,7 @@
    git clone https://github.com/MagmaT2/linora.git
    cd linora
    
-2. Download Ollma: ![Ollama](https://ollama.ai/)
+2. Download Ollma: [Ollama](https://ollama.ai/)
  
 3. Download WSL:
    ```bash
