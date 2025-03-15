@@ -2,8 +2,6 @@
 
 **Linora** is a custom Linux-like console environment for Windows, designed to provide a seamless and customizable experience for running Linux commands, managing files, and interacting with AI (via Ollama). It combines the power of WSL (Windows Subsystem for Linux) with a user-friendly interface and a cute fox mascot named Orry.
 
-![Linora ASCII Art](https://via.placeholder.com/500x200.png?text=Linora+ASCII+Art) <!-- Replace with your ASCII art or logo -->
-
 ---
 
 ## Features ✨
