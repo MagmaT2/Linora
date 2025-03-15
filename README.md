@@ -24,5 +24,5 @@
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/linora.git
+   git clone https://github.com/MagmaT2/linora.git
    cd linora
