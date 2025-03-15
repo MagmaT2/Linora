@@ -27,12 +27,12 @@
    git clone https://github.com/MagmaT2/linora.git
    cd linora
    
-2. Download Ollma: [Ollama](https://ollama.ai/)
+2. Download the Ollma: [Ollama](https://ollama.ai/)
  
-3. Download WSL:
+3. Download the WSL:
    ```bash
    wsl --install
-4. Start Ollama (in CMD):
+4. Start the Ollama (in CMD):
    ```bash
    ollama serve
    
@@ -48,13 +48,13 @@
 
 ### Steps 
 
-1. Launch CMD.
+1. Launch the CMD.
 
 2. Go to the location of Linora (everyone has their own location).
    ```bash
    cd Location
 
-3. Launch Linora:
+3. Launch the Linora:
    ```bash
    python Linora.py
 
