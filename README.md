@@ -30,7 +30,7 @@
 2. Download Ollma: ![Ollama](https://ollama.ai/)
  
 3. Download WSL:
-   Go to the location of Linora
+   ```bash
    wsl --install
 4. Start Ollama (in CMD):
    ```bash
